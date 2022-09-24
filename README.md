@@ -98,5 +98,5 @@ local label = sec:Label("Label")
 label:Set(text <string>)
 ]]
 local tab2 = win:Tab("Tab 2")```
-
+```
 Code was found from: https://raw.githubusercontent.com/Stebulous/solaris-ui-lib/main/source.lua
