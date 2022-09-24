@@ -7,7 +7,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/solaris-ui-lib
 ```
 
 # UI Preview
-<img src="./media/VuBircv.png" width="30%" height="30%">
+<img src="./media/VuBircv.png" width="45%" height="45%">
 
 # Library Preview
 ```lua
