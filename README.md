@@ -8,7 +8,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/solaris-ui-lib
 
 # Library Preview
 ```lua
-local SolarisLib = loadstring(game:HttpGet("https://solarishub.dev/SolarisLib.lua"))()
+local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/solaris-ui-lib/main/source.lua"))()
 
 --[[SolarisLib:New({
    Name - Title of the UI <string>
