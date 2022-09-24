@@ -6,6 +6,9 @@ The solaris ui library source code for Roblox
 loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/solaris-ui-lib/main/source.lua"))()
 ```
 
+# UI Preview
+<img src="./media/VuBircv.png">
+
 # Library Preview
 ```lua
 local SolarisLib = loadstring(game:HttpGet("https://raw.githubusercontent.com/cens6r/solaris-ui-lib/main/source.lua"))()
