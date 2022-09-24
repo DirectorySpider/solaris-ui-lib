@@ -102,4 +102,7 @@ label:Set(text <string>)
 ]]
 local tab2 = win:Tab("Tab 2")```
 ```
+
+# Source
+The code was originally created by Solaris Software.
 Code was found from: https://raw.githubusercontent.com/Stebulous/solaris-ui-lib/main/source.lua
